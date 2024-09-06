@@ -1,0 +1,3 @@
+C:/Users/matcix/CLionProjects/cpp_study/cmake-build-debug/CMakeFiles/cpp_study.dir
+C:/Users/matcix/CLionProjects/cpp_study/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matcix/CLionProjects/cpp_study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
