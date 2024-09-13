@@ -1,0 +1,15 @@
+# ninja log v6
+14	930	7479027892301374	CMakeFiles/cpp_study.dir/telegram.cpp.obj	c7959bfec8d29726
+275	346	7473864708707941	cpp_study.exe	62e1e9eb1efa61f3
+3	506	7479027892179503	CMakeFiles/cpp_study.dir/main.cpp.obj	da309a195089d6ae
+1	6335	7479030625225625	build.ninja	b70632877918ad0d
+3	1239	7479030668899292	CMakeFiles/cpp_study.dir/telegram.cpp.obj	c7959bfec8d29726
+7	288	7479031763183830	CMakeFiles/cpp_study.dir/main.cpp.obj	da309a195089d6ae
+18	1514	7479031763293849	CMakeFiles/cpp_study.dir/telegram.cpp.obj	c7959bfec8d29726
+1514	1588	7479031778249866	cpp_study.exe	5f5e3cfaff145abd
+4	283	7479032832741848	CMakeFiles/cpp_study.dir/main.cpp.obj	da309a195089d6ae
+15	904	7479032832851839	CMakeFiles/cpp_study.dir/telegram.cpp.obj	c7959bfec8d29726
+904	980	7479032841744226	cpp_study.exe	5f5e3cfaff145abd
+3	284	7479033883666942	CMakeFiles/cpp_study.dir/main.cpp.obj	da309a195089d6ae
+15	915	7479033883789065	CMakeFiles/cpp_study.dir/telegram.cpp.obj	c7959bfec8d29726
+915	990	7479033892782587	cpp_study.exe	5f5e3cfaff145abd
