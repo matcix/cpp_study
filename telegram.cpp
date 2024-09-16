@@ -39,7 +39,7 @@ string sendTelegramMessage(const string &botToken, const string &chatId, const s
 
 int sendTelegram()
 {
-    string botToken = "7474549046:AAGUrByGq8yZanvo5q_mkPCmuXH-j1IT1kc";
+    string botToken = "你的机器人token";
     string chatId = "5822032239";
     string message = "Hello, Telegram!";
 
