@@ -40,8 +40,8 @@ string sendTelegramMessage(const string &botToken, const string &chatId, const s
 int sendTelegram()
 {
     string botToken = "你的机器人token";
-    string chatId = "5822032239";
-    string message = "Hello, Telegram!";
+    string chatId = "";
+    string message = "散兵是三处的爹";
 
     string response = sendTelegramMessage(botToken, chatId, message);
     cout << "Response: " << response << endl;
