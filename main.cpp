@@ -4,6 +4,9 @@
 
 using namespace std;
 
+void sanbing(){
+    //
+}
 
 int main() {
     sendTelegram();
